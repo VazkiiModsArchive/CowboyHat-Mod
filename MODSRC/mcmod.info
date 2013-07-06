@@ -1,0 +1,17 @@
+[
+{
+  "modid": "CowboyHat",
+  "name": "Cowboy Hat",
+  "description": "Adds a cowboy hat that allows you to see horse stats. Yee Haw!",
+  "version": "1.0",
+  "mcversion": "1.6+",
+  "logoFile": "",
+  "url": "",
+  "updateUrl": "",
+  "authors": ["Vazkii"],
+  "credits": "ZeroLevels for the icons, Marty for the idea",
+  "parent": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
